@@ -10,6 +10,8 @@
 [![GitHub Johlolo](https://img.shields.io/github/followers/johlolo?label=follow&style=social)](https://github.com/Johlolo)
 [![Instagram: johlolo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/johlolo_/)](https://www.instagram.com/johlolo_/)
 
+##
+
 ### <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"> A little more about me...  
 
 ```php
