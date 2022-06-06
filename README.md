@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/geKnQQmQzVms2vdiCb/giphy.gif" width="180">
 
 <div>
-<a href="https://www.linkedin.com/in/johannespablorey/">
+<a href="https://www.linkedin.com/in/johannespablorey/"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johlolo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
