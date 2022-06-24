@@ -45,15 +45,15 @@ class About extends Me
             Nodejs::class,
             CSS::class,
             SASS::class,
-            MySQL::class
+            MySQL::class,
+            React::class
         ];
     }
 
     public function getFutureGoal(): array
     {
         return [
-            "codeToLearning" => [
-                "React", 
+            "nextCodesToLearn" => [
                 "TypeScript", 
                 "Vuejs", 
                 "Laravel", 
