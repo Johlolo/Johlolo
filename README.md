@@ -20,53 +20,41 @@
 
 ### <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"> A little more about me...  
 
-```php
-<?php
-
-namespace Johlolo;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Satake Group',
-                'position' => 'Engineering Analyst'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Nodejs::class,
-            CSS::class,
-            SASS::class,
-            MySQL::class,
-            React::class
-        ];
-    }
-
-    public function getFutureGoal(): array
-    {
-        return [
-            "nextCodesToLearn" => [
-                "TypeScript", 
-                "Vuejs", 
-                "Laravel", 
-                "Angular"
+```javascript
+const johlolo = {
+    personal: {
+        fullName: 'Johannes Rey',
+        birthDate: '1995-09-30',
+        languages: ['English', 'Portuguese', 'German'],
+        interests: ['music', 'games', 'anime', 'movies']
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: 'React',
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: ['PHP', 'Node.js'],
+            database: ['MySQL', 'SQL Server'],
+            architecture: ['Single Page Applications', 'Feature First'],
+        },
+        futureGoals: {
+            improveKnowledge: [
+                'Typescript', 
+                'Vue.js', 
+                'Laravel', 
+                'Angular'
             ],
-            "getADevJob" => [
-                "Front-end", 
-                "Back-end", 
-                "FullStack"
-            ]
-        ];
+            getDevJob: {
+                jobPosition: [
+                    'Front-end', 
+                    'Back-end', 
+                    'Fullstack', 
+                    'Software Engineer'
+                ]
+            }
+        }
     }
 }
-
-?>
 ```
