@@ -31,20 +31,19 @@ const johlolo = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: 'React',
+                Javascript: ['React', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: ['PHP', 'Node.js'],
-            database: ['MySQL', 'SQL Server'],
+            database: ['MySQL', 'SQL Server', 'MongoDB'],
             architecture: ['Single Page Applications', 'Feature First'],
         },
         futureGoals: {
             improveKnowledge: [
-                'Typescript', 
+                'Angular',
                 'Vue.js', 
-                'Laravel', 
-                'Angular'
+                'Laravel'
             ],
             getDevJob: {
                 jobPosition: [
