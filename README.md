@@ -31,7 +31,7 @@ const johlolo = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Typescript'],
+                Javascript: ['Angular', 'React', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
@@ -41,7 +41,8 @@ const johlolo = {
         },
         futureGoals: {
             improveKnowledge: [
-                'Angular',
+                'Java',
+                'Spring',
                 'Vue.js', 
                 'Laravel'
             ],
