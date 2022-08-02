@@ -33,7 +33,7 @@ const johlolo = {
             frontEnd: {
                 Javascript: ['Angular', 'React', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
+                CSS: ['Bootstrap', 'Angular material', 'sass', 'styled-components'],
             },
             backEnd: ['PHP', 'Node.js'],
             database: ['MySQL', 'SQL Server', 'MongoDB'],
