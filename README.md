@@ -2,12 +2,6 @@
 
 <p>And YES, it's a reference to Age Of Empires!!</p>
 <img src="https://media.giphy.com/media/geKnQQmQzVms2vdiCb/giphy.gif" width="180">
-
-<div>
-<a href="https://www.linkedin.com/in/johannespablorey/" target="_blank">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johlolo&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-</div>
 <br>
 <p><em>Mechanical Enginner at <a href="https://www.unisociesc.com.br">Unisociesc University</a> <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="30"></br>Post-graduate in Software Engineering at <a href="https://www.anhanguera.com/">Anhanguera University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
